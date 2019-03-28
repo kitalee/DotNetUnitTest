@@ -25,3 +25,8 @@ E:\repo\Unit Testing with ASP.NET Web API 2 using Visual Studio 2017\C#\StoreApp
 E:\repo\Unit Testing with ASP.NET Web API 2 using Visual Studio 2017\C#\StoreApp.Tests\obj\Debug\StoreApp.Tests.csproj.CopyComplete
 E:\repo\Unit Testing with ASP.NET Web API 2 using Visual Studio 2017\C#\StoreApp.Tests\obj\Debug\StoreApp.Tests.dll
 E:\repo\Unit Testing with ASP.NET Web API 2 using Visual Studio 2017\C#\StoreApp.Tests\obj\Debug\StoreApp.Tests.pdb
+E:\repo\Unit Testing with ASP.NET Web API 2 using Visual Studio 2017\C#\StoreApp.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\repo\Unit Testing with ASP.NET Web API 2 using Visual Studio 2017\C#\StoreApp.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\repo\Unit Testing with ASP.NET Web API 2 using Visual Studio 2017\C#\StoreApp.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\repo\Unit Testing with ASP.NET Web API 2 using Visual Studio 2017\C#\StoreApp.Tests\bin\Debug\System.Web.Http.Tracing.dll
+E:\repo\Unit Testing with ASP.NET Web API 2 using Visual Studio 2017\C#\StoreApp.Tests\bin\Debug\System.Web.Http.Tracing.xml
